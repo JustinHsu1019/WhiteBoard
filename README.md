@@ -27,4 +27,5 @@
 
 UI 介面:
 
-![image](https://github.com/JustinHsu1019/WhiteBoard/assets/141555665/802c95c4-aac0-43dd-828f-7fc81557289b)
+![UI](https://github.com/JustinHsu1019/WhiteBoard/assets/141555665/0c9259bd-4941-4b2d-8f73-d5003f03f314)
+
