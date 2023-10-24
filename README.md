@@ -1,31 +1,30 @@
-# White Board - 雲端電子白板
-## 介紹:
-此程式是一個簡易的電子白板，提供使用者直接在瀏覽器上繪畫。它不僅支援鼠標繪畫，還支援觸控屏幕。使用者可以選擇不同的筆觸大小和顏色，並擁有清除、筆、橡皮、上頁和下頁等功能按鈕。
+# White Board - Cloud-based Electronic Whiteboard
+## Introduction:
+This application is a simple electronic whiteboard that allows users to draw directly in their browsers. It supports not only mouse drawing but also touch screens. Users can choose different brush sizes and colors and have buttons for functions like clear, pen, eraser, previous page, and next page.
 
-## 主要功能:
-1. 畫筆選擇: 使用者可以選擇畫筆的顏色和大小。
-2. 全螢幕: 提供使用者全屏模式繪畫。
-3. 清除: 允許使用者清除畫布。
-4. 筆/橡皮切換: 使用者可以選擇使用筆或橡皮擦功能。
-5. 換頁: 支援多頁功能，使用者可以在200頁之內進行切換。
+## Key Features:
+1. Brush Selection: Users can choose the color and size of the brush.
+2. Full Screen: Offers users a full-screen mode for drawing.
+3. Clear: Allows users to clear the canvas.
+4. Pen/Eraser Toggle: Users can choose to use the pen or eraser function.
+5. Page Switching: Supports multi-page functionality, allowing users to switch within 200 pages.
 
-## 如何使用:
-1. 打開 index.html 在您的瀏覽器中。
-2. 使用鼠標或觸摸屏幕進行繪畫。
-3. 利用右側的工具欄調整筆觸大小、顏色，或使用其他功能按鈕。
+## How to Use:
+1. Open index.html in your browser.
+2. Draw using the mouse or touch screen.
+3. Use the toolbar on the right to adjust brush size, color, or utilize other function buttons.
 
-## 技術細節:
-1. HTML & CSS: 建立用戶界面和樣式。
-2. JavaScript & jQuery: 處理繪畫功能、畫筆選擇、換頁功能等。
-3. Canvas: 使用HTML5的Canvas API 進行繪畫。
+## Technical Details:
+1. HTML & CSS: Establish the user interface and styling.
+2. JavaScript & jQuery: Handle drawing functions, brush selection, page switching, etc.
+3. Canvas: Drawing is done using the HTML5 Canvas API.
 
-## 待完善之項目:
-1. 當前的儲存機制依賴於localstorage，未來計畫將其遷移至伺服器端以便於更優化的資料管理。
-2. 計劃加入共享白板功能，讓使用者能與親友共同繪製，合作完成心中的畫作。
-3. 擴展功能，新增背景選擇及圖片導入選項，提供用戶更多元的繪畫靈感來源。
-4. 優化並美化使用者介面，使其更為直觀且友善。
+## Areas for Improvement:
+1. The current storage mechanism relies on localstorage. Plans are in place to migrate it to the server-side for optimized data management.
+2. Planning to introduce a shared whiteboard feature, allowing users to co-draw with friends and family, collaboratively completing artworks.
+3. Expand functionalities, adding background selection and image import options, providing users with more diverse sources of drawing inspiration.
+4. Optimize and beautify the user interface, making it more intuitive and user-friendly.
 
-## UI 介面:
+## UI Interface:
 
 ![UI](https://github.com/JustinHsu1019/WhiteBoard/assets/141555665/0c9259bd-4941-4b2d-8f73-d5003f03f314)
-
